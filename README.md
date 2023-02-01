@@ -4,7 +4,6 @@
 
 [云服务器优惠](https://www.aliyun.com/minisite/goods?userCode=nrsebbz1&share_source=copy_link)
 
-[组战队赢iPhone](https://zb.aliyun.com/taskCenter/88?inviterUserId=1558)
+[组战队赢iPhone](https://zb.aliyun.com/taskCenter/93?inviterUserId=1558)
 
-![](images/2023-01-17-18-22-57.png)
-
+![](images/2023-02-01-09-45-59.png)
