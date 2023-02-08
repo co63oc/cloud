@@ -1,8 +1,8 @@
 钉钉群
 
-| 群号                                | 名称                                  | 来源页                                              |
+| 群号<br />（如果无群号进入来源页扫二维码）                                | 名称                                  | 来源页                                              |
 | ----------------------------------- | ------------------------------------- | --------------------------------------------------- |
-|  | DataWorks 交流群                      | https://help.aliyun.com/document_detail/205582.html  (进入页面扫二维码) |
+|  | DataWorks 交流群                      | https://help.aliyun.com/document_detail/205582.html |
 | 34826335                            | OpenSergo 社区交流群                  | https://help.aliyun.com/practice_detail/444295      |
 | 35208328                            | 文字识别（OCR）客户交流群             | https://help.aliyun.com/document_detail/272540.html |
 | 12320018502                         | DataV Card可视分析创作间              | https://help.aliyun.com/document_detail/464598.html |
@@ -22,42 +22,20 @@
 | 35956094                            | 智能外呼机器人产品群                  | https://help.aliyun.com/document_detail/388424.html |
 | 34756416                            | NAT网关客户交流群                     | https://help.aliyun.com/document_detail/182374.html |
 | 21983957 | 机器翻译客户群 | https://help.aliyun.com/document_detail/460097.html |
-|                                     | 实时计算Flink交流群 | https://help.aliyun.com/document_detail/67660.html  (进入页面扫二维码) |
+|                                     | 实时计算Flink交流群 | https://help.aliyun.com/document_detail/67660.html |
 | 35097715 | antd-mini社区服务群 | https://opendocs.alipay.com/mini/design/cgdp2w |
-|             | PG\|POLARDB技术进阶 | https://github.com/ApsaraDB/PolarDB-for-PostgreSQL (进入页面扫二维码) |
+|             | PG POLARDB技术进阶 | https://github.com/ApsaraDB/PolarDB-for-PostgreSQL |
 | 32432897 | 阿里云 PolarDB-X 开源交流群 | https://github.com/polardb/polardbx-sql/blob/main/docs/zh_CN/README.md |
 | 13600003427 | 龙蜥OpenAnolis社区交流2群 | https://openanolis.cn/page/contact |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-|                                     |                                       |                                                     |
-
+| 44837352 | ModelScope开发者联盟群1  | https://modelscope.cn/protocol/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC |
+| 23050005920 | 智能语音AI 5群 | https://help.aliyun.com/document_detail/72138.html |
+| 31481771 | EventBridge用户交流群 | https://help.aliyun.com/document_detail/188182.html |
+| 11782920 | MaxCompute开发者社区1群 | https://help.aliyun.com/document_detail/128366.html |
+| 11370001915 | OpenAPI SDK 自签名服务群 | https://help.aliyun.com/document_detail/473219.html |
+| | iLogtail社区 | https://github.com/alibaba/ilogtail |
+| 44752480 | 云呼叫中心产品服务2群 | https://help.aliyun.com/document_detail/112566.html |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
