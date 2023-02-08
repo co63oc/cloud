@@ -9,3 +9,5 @@
 ![](images/2023-02-01-09-45-59.png)
 
 [江海计划2月开发者社区征文活动](https://open.alipay.com/portal/forum/post/112601016)
+
+[钉钉群收集](group/aliyun.md)
