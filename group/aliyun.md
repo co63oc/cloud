@@ -2,7 +2,7 @@
 
 | 群号                                | 名称                                  | 来源页                                              |
 | ----------------------------------- | ------------------------------------- | --------------------------------------------------- |
-|  | DataWorks 交流群                      | https://help.aliyun.com/document_detail/205582.html ![](images/2023-02-08-08-06-58.png) |
+|  | DataWorks 交流群                      | https://help.aliyun.com/document_detail/205582.html  (进入页面扫二维码) |
 | 34826335                            | OpenSergo 社区交流群                  | https://help.aliyun.com/practice_detail/444295      |
 | 35208328                            | 文字识别（OCR）客户交流群             | https://help.aliyun.com/document_detail/272540.html |
 | 12320018502                         | DataV Card可视分析创作间              | https://help.aliyun.com/document_detail/464598.html |
@@ -22,9 +22,9 @@
 | 35956094                            | 智能外呼机器人产品群                  | https://help.aliyun.com/document_detail/388424.html |
 | 34756416                            | NAT网关客户交流群                     | https://help.aliyun.com/document_detail/182374.html |
 | 21983957 | 机器翻译客户群 | https://help.aliyun.com/document_detail/460097.html |
-|                                     | 实时计算Flink交流群 | https://help.aliyun.com/document_detail/67660.html ![](images/2023-02-08-08-06-29.png)|
+|                                     | 实时计算Flink交流群 | https://help.aliyun.com/document_detail/67660.html  (进入页面扫二维码) |
 | 35097715 | antd-mini社区服务群 | https://opendocs.alipay.com/mini/design/cgdp2w |
-|             | PG\|POLARDB技术进阶 | https://github.com/ApsaraDB/PolarDB-for-PostgreSQL ![](images/2023-02-08-08-36-13.png)|
+|             | PG\|POLARDB技术进阶 | https://github.com/ApsaraDB/PolarDB-for-PostgreSQL (进入页面扫二维码) |
 | 32432897 | 阿里云 PolarDB-X 开源交流群 | https://github.com/polardb/polardbx-sql/blob/main/docs/zh_CN/README.md |
 | 13600003427 | 龙蜥OpenAnolis社区交流2群 | https://openanolis.cn/page/contact |
 |                                     |                                       |                                                     |
