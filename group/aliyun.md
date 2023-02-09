@@ -35,8 +35,7 @@
 | | iLogtail社区 | https://github.com/alibaba/ilogtail |
 | 44752480 | 云呼叫中心产品服务2群 | https://help.aliyun.com/document_detail/112566.html |
 | 44810299 | 铜锁（原BabaSSL）社区交流群 | https://github.com/Tongsuo-Project/Tongsuo |
-| | | |
-| | | |
-| | | |
+| 21991247 | DMS 社区咨询群 | https://dms.aliyun.com/help/dingdingGroup |
+| 31675206 | EMR Studio 用户交流群 | https://developer.aliyun.com/article/790316 |
 | | | |
 | | | |
