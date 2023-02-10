@@ -37,5 +37,10 @@
 | 44810299 | 铜锁（原BabaSSL）社区交流群 | https://github.com/Tongsuo-Project/Tongsuo |
 | 21991247 | DMS 社区咨询群 | https://dms.aliyun.com/help/dingdingGroup |
 | 31675206 | EMR Studio 用户交流群 | https://developer.aliyun.com/article/790316 |
-| | | |
+| | E-MapReduce Doctor交流群 | https://help.aliyun.com/document_detail/442436.html |
+| 44686237 | BizDevOps交流群 | https://developer.aliyun.com/ask/483127 |
+| 34038798 | 云速搭 | https://help.aliyun.com/document_detail/448538.html |
+| 21930006619 | iTAG公有云沟通群 | https://help.aliyun.com/document_detail/311182.html |
+| 21946131 | PAI Blade交流群 | https://help.aliyun.com/document_detail/205134.html |
+| 2565014799 | PAI智能零售群 | https://help.aliyun.com/document_detail/463905.html |
 | | | |
