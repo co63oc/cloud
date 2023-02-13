@@ -43,4 +43,14 @@
 | 21930006619 | iTAG公有云沟通群 | https://help.aliyun.com/document_detail/311182.html |
 | 21946131 | PAI Blade交流群 | https://help.aliyun.com/document_detail/205134.html |
 | 2565014799 | PAI智能零售群 | https://help.aliyun.com/document_detail/463905.html |
+| | 云价签咨询 | https://help.aliyun.com/document_detail/125070.html |
+| 30675445 | 阿里云新品发布会 | https://promotion.aliyun.com/ntms/act/cloud/product.html |
+| 33086349 | 云码天猫淘宝群 | https://yun-ma.tmall.com/index/home |
+| 44819114 | BizWorks技术支持群 | https://www.aliyun.com/product/applicationservice/bizworks |
+| 30390760 | Serverless容器体验交流群 | https://help.aliyun.com/document_detail/89129.html | 
+| 44666389 | VNode客户支持群 | https://help.aliyun.com/document_detail/460223.html |
+| | | |
+| | | |
+| | | |
+| | | |
 | | | |
