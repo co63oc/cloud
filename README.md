@@ -11,3 +11,8 @@
 [江海计划2月开发者社区征文活动](https://open.alipay.com/portal/forum/post/112601016)
 
 [钉钉群收集](group/aliyun.md)
+
+[Anolis OS](https://openanolis.cn/)
+[OpenCloudOS](https://www.opencloudos.org/sig-lists)
+
+[AI Studio](https://aistudio.baidu.com/aistudio/index)
