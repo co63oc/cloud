@@ -17,3 +17,5 @@
 [OpenCloudOS](https://www.opencloudos.org/sig-lists)
 
 [AI Studio](https://aistudio.baidu.com/aistudio/index)
+
+[飞桨社区活动总览](https://github.com/PaddlePaddle/Paddle/issues/42410)
