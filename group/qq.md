@@ -3,10 +3,6 @@ QQ群
 | 群号 | 名称 | 来源页 |
 | ------------------------------------- | --------------------------------------------------- |
 | 777320883 | gitee技术交流 | https://gitee.com/ |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-
+| 343734965 | PaddlePaddleHackathon | https://aistudio.baidu.com/aistudio/competition/detail/428/0/introduction |
+| | | |
+| | | |
