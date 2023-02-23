@@ -51,6 +51,14 @@
 | 44666389 | VNode客户支持群 | https://help.aliyun.com/document_detail/460223.html |
 | 31945843 | ALB客户交流群 | https://developer.aliyun.com/mission/review/alb |
 | 31045006299 | NAS官方技术支持群 | https://help.aliyun.com/document_detail/427173.html |
+| 33936810 | CSI Plugin交流群 | https://help.aliyun.com/document_detail/326353.html |
+| 31544226 | ASK交流2群 | https://help.aliyun.com/document_detail/86366.html |
+| 35532895 | NAS存储问题答疑群 | https://help.aliyun.com/document_detail/204015.html |
+| 35688562 | ACK One客户交流群 | https://help.aliyun.com/document_detail/358833.html |
+| 33214567 | 云原生AI套件客户交流群 | https://help.aliyun.com/document_detail/201994.html |
+| 21976595 | 阿里云ACK@Edge交流群 | https://help.aliyun.com/document_detail/441624.html |
+| 15205023726 | HBR混合云备份服务线上咨询群 | https://help.aliyun.com/document_detail/62362.html |
+| | | |
 | | | |
 | | | |
 | | | |

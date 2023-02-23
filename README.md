@@ -21,3 +21,5 @@
 [飞桨社区活动总览](https://github.com/PaddlePaddle/Paddle/issues/42410)
 
 [PaddlePaddle Hackathon 第四期](https://github.com/PaddlePaddle/Paddle/issues/50629)
+
+[Gitee Reward](https://gitee.com/gitee_reward)
