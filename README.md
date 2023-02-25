@@ -23,3 +23,7 @@
 [PaddlePaddle Hackathon 第四期](https://github.com/PaddlePaddle/Paddle/issues/50629)
 
 [Gitee Reward](https://gitee.com/gitee_reward)
+
+[Cloud Studio](https://codingcorp.cloudstudio.net/)
+
+[天启开放平台](https://tianqi.aminer.cn/open/document/get_started/platform_introduction)
