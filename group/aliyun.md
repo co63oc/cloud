@@ -26,7 +26,6 @@
 | 35097715 | antd-mini社区服务群 | https://opendocs.alipay.com/mini/design/cgdp2w |
 |             | PG POLARDB技术进阶 | https://github.com/ApsaraDB/PolarDB-for-PostgreSQL |
 | 32432897 | 阿里云 PolarDB-X 开源交流群 | https://github.com/polardb/polardbx-sql/blob/main/docs/zh_CN/README.md |
-| 13600003427 | 龙蜥OpenAnolis社区交流2群 | https://openanolis.cn/page/contact |
 | 44837352 | ModelScope开发者联盟群1  | https://modelscope.cn/protocol/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC |
 | 23050005920 | 智能语音AI 5群 | https://help.aliyun.com/document_detail/72138.html |
 | 31481771 | EventBridge用户交流群 | https://help.aliyun.com/document_detail/188182.html |
@@ -58,7 +57,31 @@
 | 33214567 | 云原生AI套件客户交流群 | https://help.aliyun.com/document_detail/201994.html |
 | 21976595 | 阿里云ACK@Edge交流群 | https://help.aliyun.com/document_detail/441624.html |
 | 15205023726 | HBR混合云备份服务线上咨询群 | https://help.aliyun.com/document_detail/62362.html |
+| 23110762 | 文件存储产品技术交流群 | https://zhuanlan.zhihu.com/p/429348249 |
+| | SoloPi体验交流群 | https://testerhome.com/topics/33190 |
 | | | |
 | | | |
+
+龙蜥OpenAnolis钉钉群
+| 群号<br />（如果无群号进入来源页扫二维码）                                | 名称                                  | 来源页                                              |
+| ----------------------------------- | ------------------------------------- | --------------------------------------------------- |
+| 33311793 | OpenAnolis社区交流群 | https://gitee.com/anolis/docs/blob/main/articles/103-run-anolis-os.md |
+| 13600003427 | OpenAnolis社区交流2群 | https://openanolis.cn/page/contact |
+| 31987277 | 系统运维 SIG开发&用户群(已满) | https://openanolis.cn/sig/sysom |
+| 12640034551 | 系统运维 SIG开发&用户群2群 | https://openanolis.cn/sig/sysom |
+| 42497140 | KeenTune | https://openanolis.cn/sig/KeenTune |
+| 42822683 | OpenAnolis-CNCC-SIG | https://openanolis.cn/sig/coco |
+| 34077273 | 高性能网络SIG | https://openanolis.cn/sig/high-perf-network |
+| | 持久内存 | https://openanolis.cn/sig/pmem |
+| | ARM SIG | https://openanolis.cn/sig/ARM_ARCH_SIG |
+| | OpenAnolis Intel Arch SIG | https://openanolis.cn/sig/Intel-Kernel |
+| | T-one | https://openanolis.cn/sig/t-one |
+| | eBPF技术探索SIG | https://openanolis.cn/sig/ebpfresearch |
+| | OpenAnolis Kernel SIG | https://openanolis.cn/sig/Cloud-Kernel |
+| | 龙蜥社区云原生SIG讨论 | https://openanolis.cn/sig/cloud-native |
+| | OpenAnolis高性能存储 | https://openanolis.cn/sig/high-perf-storage |
+| | QA SIG | https://openanolis.cn/sig/QA |
+| | OS硬件兼容性SIG | https://openanolis.cn/sig/hct |
 | | | |
 | | | |
+

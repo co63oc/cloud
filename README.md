@@ -27,3 +27,7 @@
 [Cloud Studio](https://codingcorp.cloudstudio.net/)
 
 [天启开放平台](https://tianqi.aminer.cn/open/document/get_started/platform_introduction)
+
+[TesterHome](https://testerhome.com/)
+
+[MindSpore](https://www.mindspore.cn/)
