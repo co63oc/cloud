@@ -59,6 +59,15 @@
 | 15205023726 | HBR混合云备份服务线上咨询群 | https://help.aliyun.com/document_detail/62362.html |
 | 23110762 | 文件存储产品技术交流群 | https://zhuanlan.zhihu.com/p/429348249 |
 | | SoloPi体验交流群 | https://testerhome.com/topics/33190 |
+| | EasyNLP开源用户群(含EasyTransfer) | https://github.com/alibaba/EasyNLP |
+| 41783266 | EasyCV-视觉算法交流群(外) | https://github.com/alibaba/EasyCV |
+| 32260796 | EasyRec推荐算法交流群 | https://github.com/alibaba/EasyRec |
+| 34375411 | DeepRec用户群 | https://developer.aliyun.com/article/878110 |
+| | 阿里计算平台Alink开源用户群 | https://github.com/alibaba/Alink |
+| | BladeDISC用户支持群 | https://github.com/alibaba/BladeDISC<br />bladedisc-dev@list.alibaba-inc.com |
+| | EPL用户交流群 | https://github.com/alibaba/easyparallellibrary |
+| | HybridBackend(outdated) | https://github.com/alibaba/HybridBackend |
+| | | |
 | | | |
 | | | |
 
@@ -82,6 +91,7 @@
 | | OpenAnolis高性能存储 | https://openanolis.cn/sig/high-perf-storage |
 | | QA SIG | https://openanolis.cn/sig/QA |
 | | OS硬件兼容性SIG | https://openanolis.cn/sig/hct |
+| | | |
 | | | |
 | | | |
 
