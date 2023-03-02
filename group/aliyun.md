@@ -12,6 +12,7 @@
 | 23109592                            | 阿里云视觉智能开放平台咨询群          | https://help.aliyun.com/document_detail/260305.html |
 | 35035130                            | 图像搜索交流群                        | https://help.aliyun.com/document_detail/66657.html  |
 | 31875811                            | OpenAPI 值班2群                       | https://help.aliyun.com/document_detail/378677.html |
+| 11695023429                         | OpenAPI 值班3群                       | https://next.api.aliyun.com/community/document/code_sample/ |
 | 23142693                            | NLP自学习平台答疑                     | https://help.aliyun.com/document_detail/353195.html |
 | 11721331                            | 函数计算群                            | https://help.aliyun.com/document_detail/56103.html  |
 | 31723701                            | EDAS Spring Cloud和Dubbo交流群        | https://help.aliyun.com/document_detail/177375.html |
@@ -67,6 +68,16 @@
 | | BladeDISC用户支持群 | https://github.com/alibaba/BladeDISC<br />bladedisc-dev@list.alibaba-inc.com |
 | | EPL用户交流群 | https://github.com/alibaba/easyparallellibrary |
 | | HybridBackend(outdated) | https://github.com/alibaba/HybridBackend |
+| 19690022636 | OSS产品技术交流1群 | https://oss.console.aliyun.com/bucket |
+| 23326006 | DataV本地部署&尊享版官方群 | https://www.aliyun.com/product/bigdata/datav |
+| 35111738 | 地址标准化产品用户答疑 | https://addrp.console.aliyun.com/overview |
+| 35232162 | ActionTrail Support | https://actiontrail.console.aliyun.com/ |
+| 32484333 | 数据库上云 | https://developer.aliyun.com/article/771197 |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
 | | | |
 | | | |
 | | | |
@@ -91,6 +102,13 @@
 | | OpenAnolis高性能存储 | https://openanolis.cn/sig/high-perf-storage |
 | | QA SIG | https://openanolis.cn/sig/QA |
 | | OS硬件兼容性SIG | https://openanolis.cn/sig/hct |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
 | | | |
 | | | |
 | | | |
