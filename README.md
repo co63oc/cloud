@@ -4,7 +4,7 @@
 
 [云服务器优惠](https://www.aliyun.com/minisite/goods?userCode=nrsebbz1&share_source=copy_link)
 
-[组战队赢iPhone](https://zb.aliyun.com/taskCenter/93?inviterUserId=1558)
+[组战队赢iPhone](https://zb.aliyun.com/taskCenter/110?inviterUserId=1558)
 
 [江海计划2月开发者社区征文活动](https://open.alipay.com/portal/forum/post/112601016)
 
@@ -31,3 +31,12 @@
 [MindSpore](https://www.mindspore.cn/)
 
 [阿里云对象存储上传下载工具ossutil](https://help.aliyun.com/document_detail/120075.html)
+
+[华为云体验官](https://developer.huaweicloud.com/activity/experience-officer.html)
+
+[天猫精灵开放平台](https://www.aligenie.com/)
+
+[Markdown官方教程](https://markdown.com.cn/basic-syntax/)
+
+
+技术QQ群 705195751

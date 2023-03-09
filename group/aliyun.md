@@ -1,4 +1,4 @@
-钉钉群
+##### 钉钉群
 
 | 群号<br />（如果无群号进入来源页扫二维码）                                | 名称                                  | 来源页                                              |
 | ----------------------------------- | ------------------------------------- | --------------------------------------------------- |
@@ -14,6 +14,7 @@
 | 31875811                            | OpenAPI 值班2群                       | https://help.aliyun.com/document_detail/378677.html |
 | 11695023429                         | OpenAPI 值班3群                       | https://next.api.aliyun.com/community/document/code_sample/ |
 | 23142693                            | NLP自学习平台答疑                     | https://help.aliyun.com/document_detail/353195.html |
+| 44619071                            | NLP自学习平台答疑2群                     | https://developer.aliyun.com/mission/review/nlpautoml |
 | 11721331                            | 函数计算群                            | https://help.aliyun.com/document_detail/56103.html  |
 | 31723701                            | EDAS Spring Cloud和Dubbo交流群        | https://help.aliyun.com/document_detail/177375.html |
 | 23197114                            | EDAS容器服务K8s和Serverless K8s交流群 | https://help.aliyun.com/document_detail/177375.html |
@@ -73,16 +74,16 @@
 | 35111738 | 地址标准化产品用户答疑 | https://addrp.console.aliyun.com/overview |
 | 35232162 | ActionTrail Support | https://actiontrail.console.aliyun.com/ |
 | 32484333 | 数据库上云 | https://developer.aliyun.com/article/771197 |
-| | | |
-| | | |
-| | | |
-| | | |
+| | AliGenie技能应用开发者答疑交流群 | https://iap.aligenie.com/home |
+| 11783495 | 资源编排ROS客户支持群 | https://help.aliyun.com/document_detail/140612.html |
+| 32874633 | Serverless应用引擎用户3群 | https://help.aliyun.com/document_detail/123829.html |
+| 26560014923 | 阿里云OCR文档自学习用户答疑群 | https://help.aliyun.com/document_detail/603378.html |
 | | | |
 | | | |
 | | | |
 | | | |
 
-龙蜥OpenAnolis钉钉群
+##### 龙蜥OpenAnolis钉钉群
 | 群号<br />（如果无群号进入来源页扫二维码）                                | 名称                                  | 来源页                                              |
 | ----------------------------------- | ------------------------------------- | --------------------------------------------------- |
 | 33311793 | OpenAnolis社区交流群 | https://gitee.com/anolis/docs/blob/main/articles/103-run-anolis-os.md |
