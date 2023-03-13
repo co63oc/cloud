@@ -30,6 +30,7 @@
 | 32432897 | 阿里云 PolarDB-X 开源交流群 | https://github.com/polardb/polardbx-sql/blob/main/docs/zh_CN/README.md |
 | 44837352 | ModelScope开发者联盟群1  | https://modelscope.cn/protocol/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC |
 | 23050005920 | 智能语音AI 5群 | https://help.aliyun.com/document_detail/72138.html |
+| 27205021003 | 阿里语音AI 6群 | https://help.aliyun.com/document_detail/72138.html |
 | 31481771 | EventBridge用户交流群 | https://help.aliyun.com/document_detail/188182.html |
 | 11782920 | MaxCompute开发者社区1群 | https://help.aliyun.com/document_detail/128366.html |
 | 11370001915 | OpenAPI SDK 自签名服务群 | https://help.aliyun.com/document_detail/473219.html |
@@ -78,6 +79,10 @@
 | 11783495 | 资源编排ROS客户支持群 | https://help.aliyun.com/document_detail/140612.html |
 | 32874633 | Serverless应用引擎用户3群 | https://help.aliyun.com/document_detail/123829.html |
 | 26560014923 | 阿里云OCR文档自学习用户答疑群 | https://help.aliyun.com/document_detail/603378.html |
+| 44519396 | 云盾·数据库审计·A100&D100 专家支持 | https://help.aliyun.com/document_detail/132233.html |
+| 32497587 | DataScience答疑群 | https://help.aliyun.com/document_detail/274515.html |
+| 2720012141 | 阿里云VOD视频点播技术交流 | https://help.aliyun.com/document_detail/125570.html |
+| | | |
 | | | |
 | | | |
 | | | |
