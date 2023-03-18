@@ -12,27 +12,17 @@
 
 [Anolis OS](https://openanolis.cn/)
 
-[OpenCloudOS](https://www.opencloudos.org/sig-lists)
-
 [AI Studio](https://aistudio.baidu.com/aistudio/index)
 
-[飞桨社区活动总览](https://github.com/PaddlePaddle/Paddle/issues/42410)
-
-[PaddlePaddle Hackathon 第四期](https://github.com/PaddlePaddle/Paddle/issues/50629)
+[PaddlePaddle Hackathon 第四期](https://github.com/PaddlePaddle/Paddle/issues/51281)
 
 [Gitee Reward](https://gitee.com/gitee_reward)
 
 [Cloud Studio](https://codingcorp.cloudstudio.net/)
 
-[天启开放平台](https://tianqi.aminer.cn/open/document/get_started/platform_introduction)
-
 [TesterHome](https://testerhome.com/)
 
-[MindSpore](https://www.mindspore.cn/)
-
 [阿里云对象存储上传下载工具ossutil](https://help.aliyun.com/document_detail/120075.html)
-
-[华为云体验官](https://developer.huaweicloud.com/activity/experience-officer.html)
 
 [天猫精灵开放平台](https://www.aligenie.com/)
 
