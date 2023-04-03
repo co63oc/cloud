@@ -71,6 +71,7 @@
 | | EPL用户交流群 | https://github.com/alibaba/easyparallellibrary |
 | | HybridBackend(outdated) | https://github.com/alibaba/HybridBackend |
 | 19690022636 | OSS产品技术交流1群 | https://oss.console.aliyun.com/bucket |
+| 650032607 | OSS产品技术交流2群 | https://oss.console.aliyun.com/overview |
 | 23326006 | DataV本地部署&尊享版官方群 | https://www.aliyun.com/product/bigdata/datav |
 | 35111738 | 地址标准化产品用户答疑 | https://addrp.console.aliyun.com/overview |
 | 35232162 | ActionTrail Support | https://actiontrail.console.aliyun.com/ |
@@ -86,7 +87,6 @@
 | 31407265 | 抢占式实例答疑群 | https://help.aliyun.com/document_detail/52088.html |
 | 44948838 | 应用诊断分析平台ATP客户支持 | https://help.aliyun.com/document_detail/612128.htm |
 | 44604776 | 听悟客户服务群 | https://help.aliyun.com/product/454189.html |
-| | | |
 | | | |
 | | | |
 | | | |
