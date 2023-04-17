@@ -4,9 +4,7 @@
 
 [云服务器优惠](https://www.aliyun.com/minisite/goods?userCode=nrsebbz1&share_source=copy_link)
 
-[组战队赢iPhone](https://zb.aliyun.com/taskCenter/110?inviterUserId=1558)
-
-[江海计划2月开发者社区征文活动](https://open.alipay.com/portal/forum/post/112601016)
+[支付宝开发者社区](https://open.alipay.com/portal/forum)
 
 [钉钉群收集](group/aliyun.md)
 
