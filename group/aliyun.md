@@ -89,9 +89,9 @@
 | 44604776 | 听悟客户服务群 | https://help.aliyun.com/product/454189.html |
 | 11205017670 | ES Serverless公测交流 | https://help.aliyun.com/document_detail/604770.html |
 | 24655011781 | 云安全中心公测答疑群 | https://www.alibabacloud.com/help/en/security-center/latest/release-notes |
-| | | |
-| | | |
-| | | |
+| 23146118 | 网盘与相册服务群 | https://help.aliyun.com/document_detail/2248466.html |
+| 35556346 | 云网关产品服务交流群 | https://help.aliyun.com/document_detail/200394.html |
+| 33617640 | 神龙AI加速AIACC外部支持群 | https://help.aliyun.com/document_detail/468640.html |
 | | | |
 | | | |
 | | | |
