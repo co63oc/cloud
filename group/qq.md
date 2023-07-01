@@ -7,4 +7,5 @@ QQ群
 | 860337848 | 百度人体分析交流群 | https://ai.baidu.com/ai-doc/NLP/tk6z52b9z |
 | 632426386 | 百度自然语言交流群 | https://ai.baidu.com/ai-doc/NLP/tk6z52b9z |
 | 458967388 | 百度自然语言交流2群 | https://ai.baidu.com/ai-doc/NLP/tk6z52b9z |
+| 1058398620 | PaddleGAN用户交流群 | https://github.com/PaddlePaddle/PaddleGAN |
 | | | |
