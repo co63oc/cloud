@@ -82,7 +82,6 @@
 | 26560014923 | 阿里云OCR文档自学习用户答疑群 | https://help.aliyun.com/document_detail/603378.html |
 | 44519396 | 云盾·数据库审计·A100&D100 专家支持 | https://help.aliyun.com/document_detail/132233.html |
 | 32497587 | DataScience答疑群 | https://help.aliyun.com/document_detail/274515.html |
-| 2720012141 | 阿里云VOD视频点播技术交流 | https://help.aliyun.com/document_detail/125570.html |
 | 23103656 | SchedulerX阿里任务调度 | https://help.aliyun.com/document_detail/162905.html |
 | 31407265 | 抢占式实例答疑群 | https://help.aliyun.com/document_detail/52088.html |
 | 44948838 | 应用诊断分析平台ATP客户支持 | https://help.aliyun.com/document_detail/612128.htm |
